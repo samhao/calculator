@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+button {
+  border: single;
+  color: black;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  height: 45px;
+  width: 45px;
+}
+
+textarea {
+  height: 45px;
+  width: 180px;
+  margin: 0px;
+  text-align: right;
+  font-size: 20px;
+  padding: 5px;
+  color: black;
+  border: double;
+}
+
+.calc-row {
+  padding-left: 20px;
+}
+
+.operator {
+  background-color: lightyellow;
+  font-weight: bold;
+}
+.wide {
+  width: 67.5px;
+}
